@@ -1,0 +1,9 @@
+#Open kitty
+super + k
+	kitty
+
+#Reload tint2
+super + t
+	killall tint2 && tint2
+
+
